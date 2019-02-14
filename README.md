@@ -1,4 +1,4 @@
-# web-learning-path
+# Web Learning Path
 
 
 ## Preparation
@@ -27,6 +27,8 @@ be job-ready:
 - algorithm: https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/
 
 - Advance React: https://www.udemy.com/react-redux-tutorial/learn/v4/
+
+## Topics
 
 ## HTML
 
