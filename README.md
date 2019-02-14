@@ -11,6 +11,23 @@
 
 - setup a schedule
 
+
+# 2-5 Courses:
+
+be better than general people:
+
+- zero to mastery: https://www.udemy.com/the-complete-web-developer-zero-to-mastery/
+
+- React: https://www.udemy.com/react-redux/
+
+be job-ready:
+
+- be good enough: https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/
+
+- algorithm: https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/
+
+- Advance React: https://www.udemy.com/react-redux-tutorial/learn/v4/
+
 ## HTML
 
 - review on [udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
