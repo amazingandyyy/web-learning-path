@@ -27,7 +27,6 @@
 
 learn on [udemy](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
 
-
 ## JS
 
 JS
